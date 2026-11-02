@@ -1,0 +1,10 @@
+# IDE settings
+.idea/
+
+# Presentation decks (kept out of the repo)
+*.pptx
+
+# OS files
+Thumbs.db
+.DS_Store
+
